@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Check out the big brains on Brett!" - Pulp Fiction
 Use the left arrow to go back!
